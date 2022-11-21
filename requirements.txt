@@ -2,6 +2,6 @@
 discord
 python-dotenv
 detoxify
-tensorflow-cpu==1.15
+tensorflow-cpu==2.9.3
 tensorflow-hub==0.7.0
 pillow
